@@ -20,7 +20,7 @@ public class questao11 {
                 maior = n;
             }
         }
-        System.out.println("O menor valor digitado é: " + menor);
-        System.out.println("O maior valor digitado é: " + maior);
+        System.out.println("O menor valor digitado foi: " + menor);
+        System.out.println("O maior valor digitado foi: " + maior);
     }
 }
